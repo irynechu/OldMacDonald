@@ -1,4 +1,4 @@
 void setup() {     
     Farm mac = new Farm();   
-    Mac.animalSounds();  
+    mac.animalSounds();  
 }
